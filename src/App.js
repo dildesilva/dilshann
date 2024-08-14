@@ -14,13 +14,13 @@ return(
 
 <Router>
 <Routes>
-  
-<Route path="/" element={<Home />} />
-<Route path="/about" element={<About />} />
+  <Home />
+// <Route path="/" element={<Home />} />
+// <Route path="/about" element={<About />} />
 {/* <Route path="/Contact" element={<Home section="foot" />} /> */}
 {/* <Link to="/#foot"></Link> */}
-</Routes>
-</Router>
+// </Routes>
+// </Router>
  
 );
   // const w=2;
