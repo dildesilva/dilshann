@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dilshann/static/css/main.7cbb93b1.css",
+    "main.js": "/dilshann/static/js/main.88022d5b.js",
+    "static/js/453.a919775a.chunk.js": "/dilshann/static/js/453.a919775a.chunk.js",
+    "static/media/sql.png": "/dilshann/static/media/sql.7499b73a8b72f1cb9c83.png",
+    "static/media/b7.jpg": "/dilshann/static/media/b7.bf47c3b18db67d5c5c39.jpg",
+    "static/media/php.png": "/dilshann/static/media/php.6ca3f4b55bae5e3e9b22.png",
+    "static/media/c1.png": "/dilshann/static/media/c1.1446a71036df4ebf8632.png",
+    "static/media/b6.jpg": "/dilshann/static/media/b6.964aa7fe8c2559bdd2c3.jpg",
+    "static/media/android.png": "/dilshann/static/media/android.ee37ce56d059e0a13b77.png",
+    "static/media/dp1.jpg": "/dilshann/static/media/dp1.fc4e98c108c514e4cd92.jpg",
+    "static/media/java.png": "/dilshann/static/media/java.d501471174b7732a089a.png",
+    "static/media/laravel.png": "/dilshann/static/media/laravel.b4dc763cece3cf8d017e.png",
+    "static/media/react.png": "/dilshann/static/media/react.63f940dc23e1eda8b4cc.png",
+    "index.html": "/dilshann/index.html",
+    "main.7cbb93b1.css.map": "/dilshann/static/css/main.7cbb93b1.css.map",
+    "main.88022d5b.js.map": "/dilshann/static/js/main.88022d5b.js.map",
+    "453.a919775a.chunk.js.map": "/dilshann/static/js/453.a919775a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cbb93b1.css",
+    "static/js/main.88022d5b.js"
+  ]
+}
