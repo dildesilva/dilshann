@@ -12,8 +12,8 @@ function App() {
 return(
 
 
-<Router>
-<Routes>
+// <Router>
+// <Routes>
   <Home />
 // <Route path="/" element={<Home />} />
 // <Route path="/about" element={<About />} />
